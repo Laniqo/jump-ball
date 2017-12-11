@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "WebGame_JumpBall.data.unityweb",
+"asmCodeUrl": "WebGame_JumpBall.asm.code.unityweb",
+"asmMemoryUrl": "WebGame_JumpBall.asm.memory.unityweb",
+"asmFrameworkUrl": "WebGame_JumpBall.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
